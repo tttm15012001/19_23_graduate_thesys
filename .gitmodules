@@ -1,0 +1,15 @@
+[submodule "graduate_thesis"]
+	path = graduate_thesis
+	url = https://github.com/tttm15012001/graduate_thesis.git
+[submodule "src/iq_sim"]
+	path = src/iq_sim
+	url = https://github.com/tttm15012001/graduate_thesis_19_23.git
+[submodule "src/iq_gnc"]
+	path = src/iq_gnc
+	url = https://github.com/tttm15012001/graduate_thesis_19_23.git
+[submodule "src/mavlink"]
+	path = src/mavlink
+	url = https://github.com/tttm15012001/graduate_thesis_19_23.git
+[submodule "src/mavros"]
+	path = src/mavros
+	url = https://github.com/tttm15012001/graduate_thesis_19_23.git
